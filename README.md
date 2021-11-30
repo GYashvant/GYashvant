@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/GYashvant?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-yashvant.vercel.app/)**
 
 - 📫 How to reach me **gyashvantkumar@gmail.com**
 
@@ -26,6 +26,8 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
     <img src="https://img.icons8.com/color/48/000000/css.png" style="margin-right:50px"/> 
+    
+    
      <img style="padding-right:8px; padding-left:8px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right:20px, margin-left:20px"/>
     <img style="margin-top:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="margin-right:20px"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right:20px"/>
