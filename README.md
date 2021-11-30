@@ -7,8 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
-
 - 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -19,23 +17,27 @@
 
 - ⚡ Fun fact **I play games and Watch movies.**
 
+
+
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:20px"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
-    <img src="https://img.icons8.com/color/48/000000/css.png" style="margin-right:150px"/> 
-     <img style="padding-right:8px; padding-left:8px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right:20px, margin-left:20px"/>
-    <img style="margin-top:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="margin-right:20px"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right:20px"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" style="margin-right:20px"/>
-    <img src="https://miro.medium.com/max/640/1*SL4sWHdjGR3vo0x5ta3xfw.jpeg" width="50" style="padding:8px" style="margin-right:20px"/>
-    <img src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC.jpg" width="50" height="40" style="margin-right:20px"/>
+<p> 
+    <img  align="left" src="https://img.icons8.com/color/48/000000/react-native.png" />
+    <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" /> 
+    <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png" />
+    <img align="left" src="https://img.icons8.com/color/48/000000/css.png" /> 
+     <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+    <img style="margin-top:10px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+    <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />
+    <img align="left" src="https://img.icons8.com/color/48/000000/git.png" /> 
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="backgroung-color:white" alt="express" width="50"/>
+    <img align="left" src="https://miro.medium.com/max/640/1*SL4sWHdjGR3vo0x5ta3xfw.jpeg" width="50" />
+    <img align="left" src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC.jpg" width="50" height="40" />
 </p>
 
 <br/>
+<br/><br/>
+<br/><br/>
 
 <p align="center">
     <a href="https://github.com/GYashvant/github-readme-streak-stats">
@@ -52,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/GYashvant/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GYashvant&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/GYashvant/github-readme-activity-graph"><img alt="Yashvant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GYashvant&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
